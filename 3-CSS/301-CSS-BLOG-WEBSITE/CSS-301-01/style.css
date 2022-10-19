@@ -1,1 +1,39 @@
 /* start your css here */
+/* start your css here */
+.h2{
+    text-align: center;
+    margin: 30px 1px;
+  }
+  #img{
+    text-align: center;
+    position: relative;
+    width: 630px;
+    height: 250px;
+    /* left: 419px; */
+    top: 8px;
+}
+.p{
+  text-align: center;
+ 
+
+  width: 530px;
+    height: 150px;
+    padding-left: 350px;
+}
+.div-img{
+  width: 500px;
+    height: 225px;
+    padding-left: 3px;
+}
+#pp{
+ 
+  width: 530px;
+    height: 150px;
+    padding-left: 10px;
+    font-weight: 900;
+
+/* font-family: 'Georgia'; */
+font-style: italic;
+
+}
+
