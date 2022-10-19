@@ -1,1 +1,55 @@
-/* start your styling here  */
+
+
+/* start your styling here  */  
+.container{
+    background-color: #27537d;
+    width: 40%;
+     height: 60%; 
+    margin: 100px auto;
+    border: 2px solid red;
+}
+.main{
+    background-color: #ef4770;
+    /* border: 2px solid white; */
+    width: 50%;
+height: 100%;
+margin: 54px auto;
+padding: 74px 56px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: repeat(5,20%);
+    gap: 12px 24px;
+   border-radius: 6px;
+   box-shadow: 0px 4px 4px red;
+}
+.item2{
+    grid-column: 2/span 3;
+    text-align: end;
+    color: white;
+    padding: 1px 3px;
+    background-color: #27537d;
+    border-radius: 6px;
+    box-shadow: 2px 2px 1px black;
+    padding: 4px 18px;
+}
+.item1,.item6,.item10,.item14,.item17,.item18 {
+    background-color: #ffd168;
+    border-radius: 6px;
+    box-shadow: 0px 2px 1px rgb(136, 136, 132);
+    text-align: center;
+    padding: 4px 18px;
+    /* border-radius: 10px; */
+}
+.item3,.item4,.item5,.item7,.item8,.item9,.item11,.item12,.item13,.item15,.item16 {
+    background-color: #27537d;
+    border-radius: 6px;
+    box-shadow: 0px 2px 1px black;
+    text-align: center;
+    padding: 4px 18px;
+}
+.item17 {
+    background-color: #07d6a0;
+    border-radius: 6px;
+    box-shadow: 0px 2px 1px black;
+    padding: 4px 18px;
+}
