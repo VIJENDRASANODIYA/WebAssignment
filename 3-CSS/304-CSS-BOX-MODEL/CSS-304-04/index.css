@@ -1,1 +1,26 @@
 /* start your css here */
+/* start your css here */
+body{
+    margin: 0;
+  }
+  .nav{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: black;
+    padding: 18px 1px;
+  }
+  input{
+    padding: 1px 19px;
+    color: black;
+  }
+  a{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    opacity: 0.7;
+  }
+  a:hover{
+    color: white;
+    font-size: 22px;
+    opacity: 1;
+  }
