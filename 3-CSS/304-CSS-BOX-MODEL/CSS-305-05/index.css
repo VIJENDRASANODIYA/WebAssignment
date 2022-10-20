@@ -1,0 +1,26 @@
+.container{
+    margin: 50px 50px;
+}
+.btn button{
+    background-color: #2196f3;
+    padding: 15px 120px;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    font-size: 20px;
+}
+.img img{
+    margin: 5px;
+}
+.img p{
+    margin: 32px 1px;
+}
+.btn{
+    margin: 130px 1px;
+}
+.btn h5{
+    margin: 40px 88px ;
+}
+.btn img{
+    margin: -4px 1px;
+}
