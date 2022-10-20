@@ -1,0 +1,28 @@
+.card{
+    margin: 20px;
+    width: 650px;
+    height: 450px;
+    border-radius: 20px;
+    background-color: hsl(0, 0%, 90%);
+    opacity: 0.7;
+}
+.card-body{
+    padding: -8px 17px;
+text-align: justify;
+}
+.img{
+    padding: 37px 43px;
+
+}
+.img img{
+    margin: 18px -10px;
+}
+.img h2{
+    margin: 10px -6px;
+opacity: 1;
+color: black;
+font-weight: 700;
+}
+.img p{
+    margin: 10px 6px;
+}
