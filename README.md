@@ -14,8 +14,8 @@ How to use this repository
 | S No. | Topic | Assignment                                                | Hosted Link |
 | ----- | ----- | --------------------------------------------------------- | ----------- |
 | 1     | GIT   | [COMMAND LINE](./0-Git/GIT-001-COMMANDLINE/ )            | NA          |
-| 2     | GIT   | [GIT-002-01](./0-Git/GIT-002-GIT-PRACTICE/)              |             |
-| 2     | GIT   | [GIT-002-02](./0-Git/GIT-002-GIT-PRACTICE/)              |             |
+| 2     | GIT   | [GIT-002-01](./0-Git/GIT-002-GIT-PRACTICE/)              |  https://vijendrasanodiya.github.io/webassignment-git/second.txt           |
+| 2     | GIT   | [GIT-002-02](./0-Git/GIT-002-GIT-PRACTICE/)              |  https://vijendrasanodiya.github.io./very-basic-resume/index.html           |
 
 # JS Basics
 
@@ -28,25 +28,27 @@ How to use this repository
 | S No. | Topic | Assignment                                              | Hosted Link |
 | ----- | ----- | ------------------------------------------------------- | ----------- |
 | 1     | HTML  | [HTML RESUME](./2-HTML/201-HTML-RESUME) HTML-201-01              | https://vijendrasanodiya.github.io/WebAssignment/2-HTML/201-HTML-RESUME/HTML-201-01/index.html            |
-| 2     | HTML  | [HTML FORM](./2-HTML/202-HTML-FORM/)  HTML-202-01                 |             |
-| 3     | HTML  | [HTML PHOTO CAT APP](./2-HTML/203-HTML-Photo-Cat-App/) HTML-203-01  |             |
-| 4     | HTML  | [HTML TRIBUTE PAGE](./2-HTML/204-HTML-TRIBUTE-PAGE/) HTML-204-01   |             |
+| 2     | HTML  | [HTML FORM](./2-HTML/202-HTML-FORM/)  HTML-202-01                 |  https://vijendrasanodiya.github.io/WebAssignment/2-HTML/202-HTML-FORM/HTML-202-02-Form/index.html           |
+| 3     | HTML  | [HTML PHOTO CAT APP](./2-HTML/203-HTML-Photo-Cat-App/) HTML-203-01  |  https://vijendrasanodiya.github.io/WebAssignment/2-HTML/203-HTML-Photo-Cat-App/HTML-203-01-CatApp/index.html           |
+| 4     | HTML  | [HTML TRIBUTE PAGE](./2-HTML/204-HTML-TRIBUTE-PAGE/) HTML-204-01   | https://vijendrasanodiya.github.io/WebAssignment/2-HTML/204-HTML-TRIBUTE-PAGE/HTML-204-02-TributePage/index.html            |
 
 # CSS
 
 | S No. | Topic | Assignment                                                               | Hosted Link |
 | ----- | ----- | ------------------------------------------------------------------------ | ----------- |
-| 1     | CSS   | [CSS BLOG WEBSITE](./3-CSS/301-CSS-BLOG-WEBSITE/) [CSS-301-01]               |             |
-| 2     | CSS   | [CSS BUILDING CAFE MENU](./3-CSS/302-CSS-Building-Cafe-Menu/)  [CSS-302-01]  |             |
-| 3     | CSS   | [CSS COLOR MAKER](./3-CSS/303-CSS-COLOR-MARKER/)     [CSS-303-01]            |             |
-| 4     | CSS   | [CSS-BOX-MODEL](./3-CSS/304-CSS-BOX-MODEL/)     [CSS-304-01]                 |             |
-| 4     | CSS   | [CSS-BOX-MODEL](./3-CSS/304-CSS-BOX-MODEL/)     [CSS-304-02]                 |             |
-| 4     | CSS   | [CSS-BOX-MODEL](./3-CSS/304-CSS-BOX-MODEL/)     [CSS-304-03]                 |             |
-| 4     | CSS   | [CSS-BOX-MODEL](./3-CSS/304-CSS-BOX-MODEL/)     [CSS-304-04]                 |             |
-| 5     | CSS   | [CSS-FLEXBOX](./3-CSS/305-CSS-Flexbox/)    [CSS-305-01]                      |             |
-| 5     | CSS   | [CSS-FLEXBOX](./3-CSS/305-CSS-Flexbox/)    [CSS-305-02]                      |             |
-| 5     | CSS   | [CSS-FLEXBOX](./3-CSS/305-CSS-Flexbox/)    [CSS-305-03]                      |             |
-| 5     | CSS   | [CSS-FLEXBOX](./3-CSS/305-CSS-Flexbox/)    [CSS-305-04]                      |             |
+| 1     | CSS   | [CSS BLOG WEBSITE](./3-CSS/301-CSS-BLOG-WEBSITE/) [CSS-301-01]               |   https://vijendrasanodiya.github.io/WebAssignment/3-CSS/301-CSS-BLOG-WEBSITE/CSS-301-01/index.html          |
+| 2     | CSS   | [CSS BUILDING CAFE MENU](./3-CSS/302-CSS-Building-Cafe-Menu/)  [CSS-302-01]  |  https://vijendrasanodiya.github.io/WebAssignment/3-CSS/302-CSS-Building-Cafe-Menu/CSS-302-01/index.html           |
+| 3     | CSS   | [CSS COLOR MAKER](./3-CSS/303-CSS-COLOR-MARKER/)     [CSS-303-01]            |   https://vijendrasanodiya.github.io/WebAssignment/3-CSS/303-CSS-COLOR-MARKER/CSS-303-01/index.html          |
+| 4     | CSS   | [CSS-BOX-MODEL](./3-CSS/304-CSS-BOX-MODEL/)     [CSS-304-01]                 |    https://vijendrasanodiya.github.io/WebAssignment/3-CSS/304-CSS-BOX-MODEL/CSS-304-01/index.html         |
+| 4     | CSS   | [CSS-BOX-MODEL](./3-CSS/304-CSS-BOX-MODEL/)     [CSS-304-02]                 |  https://vijendrasanodiya.github.io/WebAssignment/3-CSS/304-CSS-BOX-MODEL/CSS-304-02/index.html           |
+| 4     | CSS   | [CSS-BOX-MODEL](./3-CSS/304-CSS-BOX-MODEL/)     [CSS-304-03]                 |  https://vijendrasanodiya.github.io/WebAssignment/3-CSS/304-CSS-BOX-MODEL/CSS-304-03/index.html           |
+| 4     | CSS   | [CSS-BOX-MODEL](./3-CSS/304-CSS-BOX-MODEL/)     [CSS-304-04]                 |    https://vijendrasanodiya.github.io/WebAssignment/3-CSS/304-CSS-BOX-MODEL/CSS-304-04/index.html         |
+| 4     | CSS   | [CSS-BOX-MODEL](./3-CSS/304-CSS-BOX-MODEL/)     [CSS-304-05]                 | https://vijendrasanodiya.github.io/WebAssignment/3-CSS/304-CSS-BOX-MODEL/CSS-305-05/index.html            |
+| 4     | CSS   | [CSS-BOX-MODEL](./3-CSS/304-CSS-BOX-MODEL/)     [CSS-304-06]                 |   https://vijendrasanodiya.github.io/WebAssignment/3-CSS/304-CSS-BOX-MODEL/CSS-304-06/index.html          |
+| 5     | CSS   | [CSS-FLEXBOX](./3-CSS/305-CSS-Flexbox/)    [CSS-305-01]                      | https://vijendrasanodiya.github.io/WebAssignment/3-CSS/305-CSS-Flexbox/CSS-305-01/index.html            |
+| 5     | CSS   | [CSS-FLEXBOX](./3-CSS/305-CSS-Flexbox/)    [CSS-305-02]                      | https://vijendrasanodiya.github.io/WebAssignment/3-CSS/305-CSS-Flexbox/CSS-305-02/index.html            |
+| 5     | CSS   | [CSS-FLEXBOX](./3-CSS/305-CSS-Flexbox/)    [CSS-305-03]                      |https://vijendrasanodiya.github.io/WebAssignment/3-CSS/305-CSS-Flexbox/CSS-305-03/index.html             |
+| 5     | CSS   | [CSS-FLEXBOX](./3-CSS/305-CSS-Flexbox/)    [CSS-305-04]                      |  https://vijendrasanodiya.github.io/WebAssignment/3-CSS/305-CSS-Flexbox/CSS-305-04/index.html           |
 | 5     | CSS   | [CSS-FLEXBOX](./3-CSS/305-CSS-Flexbox/)    [CSS-305-05]                      |             |
 | 5     | CSS   | [CSS-FLEXBOX](./3-CSS/305-CSS-Flexbox/)    [CSS-305-06]                      |             |
 | 6     | CSS   | [CSS-GRID](./3-CSS/306-CSS-Grid/)          [CSS-306-01]                      |             |
