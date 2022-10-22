@@ -1,1 +1,90 @@
 /* start your styling here  */
+body{
+    margin: -16px -10px;
+    /* opacity: 0.3; */
+}
+.container{
+display: grid;
+/* justify-content: center; */
+margin: 45px 139px;
+grid-template-columns: repeat(2,57%);
+}
+div.flex2.nav{
+display: flex;
+justify-content: space-evenly;
+}
+.item1,.item2,.item3,.item4{
+display: flex;
+flex-direction: column;
+opacity: 0.7;
+}
+.flex1-section p{
+font-size: 50px;
+color: #c6aaa3;
+}
+.flex1-form input{
+width: 350px;
+height: 35px;
+}
+.flex1-form button{
+width: 350px;
+height: 45px;
+border-radius: 20px;
+/* background-color: #0074b4; */
+background-color: #2977c9;
+color: white;
+font-size: large;
+border: none;
+margin: 13px 1px;
+}
+.flex1-bottom .hr1{
+width: 170px;
+float: left;
+
+}
+.flex1-bottom .hr2{
+width: 170px;
+float: right;
+margin: -27px 202px;
+
+}
+.flex1-footer p{
+margin: 1px 100px;
+}
+.item1 h6{
+margin: 12px -7px;
+}
+.item2 h6{
+margin: 14px 0px;
+}
+.item3 h6{
+margin: 12px -7px;
+}
+.item4 h6{
+margin: 14px 3px;
+}
+.item7{
+margin: 3px 1px;
+opacity: 0.8;
+}
+.item7 button{
+font-size: 15px;
+width: 83px;
+height: 50px;
+border-radius: 20px;
+background-color: #ffffff;
+color: #2977c9;
+font-weight: 800;
+border: #2977c9;
+
+/* border: none; */
+border: solid;
+opacity: 0.9;
+}
+.flex2-main-img{
+width: 400px;
+height: 300px;
+}
+.flex1-form{
+opacity: 0.9;
+}
