@@ -1,1 +1,219 @@
 /* start your styling here  */
+body{
+    margin: 0;
+}
+.container{
+    background-image: linear-gradient(#c8f3ef,#93c2b9);
+    width: 100%;
+    height: 600px;
+    
+    display: grid;
+    grid-template-columns: 4fr 8fr;
+    gap: 20px;
+    opacity: 0.8;
+}
+.grid1{
+    width: 100%;
+    height: 600px;
+    margin: 1px 9px;
+    /* border: 2px solid greenyellow; */
+    background-image: linear-gradient(#ebf9f8,#acc5bf);
+    border-radius: 20px;
+}
+.headerOfGrid1{
+    margin: 30px 1px;
+    text-align: center;
+}
+.headerOfGrid1 h3{
+    margin: 1px;
+    opacity: 0.6;
+}
+.headerOfGrid1 p{
+margin: 1px;
+opacity: 0.5;
+}
+.main{
+display: flex;
+flex-direction: column;
+margin: 80px 111px;
+opacity: 0.7;
+}
+.main1{
+display: flex;
+
+}
+.main1 .icon1 img{
+margin: 11px 28px;
+padding: 5px 1px;
+mix-blend-mode: initial;
+filter: invert(0.1);
+background-image: linear-gradient(45deg, #00bcd4, #6fd3c2);
+border-radius: 50%;
+}
+.main2{
+display: flex;
+
+}
+.main2 .icon2 img{
+margin: 11px 28px;
+padding: 5px 1px;
+mix-blend-mode: initial;
+filter: invert(0.1);
+background-image: linear-gradient(45deg, #00bcd4, #6fd3c2);
+border-radius: 50%;
+}
+.main3{
+display: flex;
+
+}
+.main3 .icon3 img{
+margin:11px 28px;
+padding: 5px 1px;
+mix-blend-mode: initial;
+filter: invert(0.1);
+background-image: linear-gradient(45deg, #00bcd4, #6fd3c2);
+border-radius: 50%;
+}
+.main4{
+display: flex;
+
+}
+.main4 .icon4 img{
+margin: 13px 29px;
+padding: 5px 1px;
+mix-blend-mode: initial;
+filter: invert(0.1);
+background-image: linear-gradient(45deg, #00bcd4, #6fd3c2);
+border-radius: 50%;
+}
+.footer{
+width: 153%;
+margin: 1px -86px;
+height: 107px;
+/* border: 2px solid red; */
+background-image: linear-gradient(20deg,#71ffee,#2ea18d);
+border-radius: 30px;
+display: flex;
+}
+.footer-img img{
+margin: 12px 28px;
+}
+.h2 h2{
+margin: 12px 23px;
+color: white;
+}
+.grid-div2{
+display: grid;
+grid-template-rows: repeat(3,53%);
+
+/* gap: 10px; */
+
+/* border: 2px solid red; */
+}
+div.div2-main{
+margin: 35px 120px;
+}
+div.div2-main h1{
+font-size: 50px;
+font-weight: 800;
+}
+div.div2-main input{
+width: 350px;
+height: 30px;
+margin: -4px 1px;
+background-image: linear-gradient(100deg, #e4f3f2, #d0e3e0);
+border-radius: 20px;
+border: none;
+}
+
+
+
+.div2-grid1{
+width: 650px;
+margin: -13px 100px;
+display: flex;
+justify-content: space-between;
+height: 110px;
+background-image: linear-gradient(45deg, #e1f1f0, #b1c9c4);
+border-radius: 20px;
+}
+.div2-grid2{
+width: 650px;
+margin: -13px 100px;
+display: flex;
+justify-content: space-between;
+height: 110px;
+background-image: linear-gradient(45deg, #e1f1f0, #b1c9c4);
+border-radius: 20px;
+}
+.div2-grid3{
+width: 650px;
+margin: -13px 100px;
+display: flex;
+justify-content: space-between;
+height: 110px;
+background-image: linear-gradient(45deg, #e1f1f0, #b1c9c4);
+border-radius: 20px;
+}
+.div2-grid1-content h2{
+margin: 10px 0px;
+}
+.div2-grid2-content h2{
+margin: 10px 0px;
+}
+.div2-grid3-content h2{
+margin: 10px 0px;
+}
+.div2-grid1-content h4{
+margin: -8px 1px;
+}
+.div2-grid2-content h4{
+margin: -8px 1px;
+}
+.div2-grid3-content h4{
+margin: -8px 1px;
+}
+.div2-grid1-img img{
+width: 90px;
+border-radius: 20%;
+margin: 16px 20px;
+}
+.div2-grid2-img img{
+width: 90px;
+border-radius: 20%;
+margin: 16px 20px;
+}
+.div2-grid3-img img{
+width: 90px;
+border-radius: 20%;
+margin: 16px 20px;
+}
+.div2-grid1-content input{
+width:  266px;
+height: 20px;
+border-radius: 20px;
+border: none;
+background-image: linear-gradient(45deg, #76dacc, #60bcad);
+margin: 19px 1px;
+}
+.div2-grid2-content input{
+width:  266px;
+height: 20px;
+border-radius: 20px;
+border: none;
+background-image: linear-gradient(45deg, #76dacc, #60bcad);
+margin: 19px 1px;
+
+}
+.div2-grid3-content input{
+width: 266px;
+height: 20px;
+border-radius: 20px;
+border: none;
+background-image: linear-gradient(45deg, #76dacc, #60bcad);
+margin: 19px 1px;
+
+}
+.div2-grid1-last h1{
+margin: 13px 11px;
+}
