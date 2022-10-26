@@ -5,8 +5,23 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
+    <script>
+      function fn(){        document.addEventListener("click", function fn(){
+  // document.getElementById("demo").innerHTML = "Hello World";
+  var textRef=document.getElementById("text");
+     var newtext=textRef.type;
+     var wroteref=document.getElementById("wrote");
+     wroteref.innerHTML=newtext
+});
+   }
+
+
+      
+    </script>
   </head>
   <body>
-    Start your code here
+    <input    id="text" class="text" type="" />
+    <p id="wrote" class="wrote"></p>
+    <button onclick="fn()" ></button>
   </body>
 </html>
