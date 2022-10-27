@@ -1,1 +1,201 @@
-/* start your styling here  */
+.container{
+    display: grid;
+width: 250px;
+height: 300px;
+border: 2px solid purple;
+grid-template-columns:2fr 2fr 2fr 1fr;
+grid-template-rows: repeat(5, 20%);
+gap: 3px;
+border-radius: 12px;
+background-color: #1b1a28;
+padding: 17px 11px;
+}
+.item1{
+
+    grid-column: 1/4;
+    grid-row: 1/2;
+    height: 30px;
+    background-color:#dcdbe1;
+    border-radius: 5px;
+
+}
+.item2{
+    
+    height: 30px;
+    background-color: #fe006a;
+    border-radius: 5px;
+    color: white;
+    display: flex;
+align-items: center;
+justify-content: center;
+
+}  .item3{
+    background-color: hsla(276, 58%, 35%, 1);
+    border-radius: 5px;
+    color: white;
+    display: flex;
+align-items: center;
+justify-content: center;
+    /* height: 30px; */
+    height: 30px;
+
+
+}  .item4{
+    background-color: hsla(276, 58%, 35%, 1);
+    border-radius: 5px;
+    color: white;
+    display: flex;
+align-items: center;
+justify-content: center;
+    /* height: 30px; */
+    height: 30px;
+
+}
+.item5{
+    background-color: hsla(276, 58%, 35%, 1);
+    border-radius: 5px;
+    color: white;
+    display: flex;
+align-items: center;
+justify-content: center;
+    /* height: 30px; */
+    height: 30px;
+
+}
+.item6{
+    background-color: hsla(276, 58%, 35%, 1);
+    border-radius: 5px;
+    color: white;
+    display: flex;
+align-items: center;
+justify-content: center;
+    /* height: 30px; */
+    height: 30px;
+
+}  .item7{
+    background-color: hsla(276, 58%, 35%, 1);
+    border-radius: 5px;
+    color: white;
+    display: flex;
+align-items: center;
+justify-content: center;
+    /* height: 30px; */
+    height: 30px;
+
+}  .item8{
+    background-color: hsla(276, 58%, 35%, 1);
+    border-radius: 5px;
+    color: white;
+    display: flex;
+align-items: center;
+justify-content: center;
+    /* height: 30px; */
+    height: 30px;
+
+}
+.item9{
+    background-color: hsla(276, 58%, 35%, 1);
+    border-radius: 5px;
+    color: white;
+    display: flex;
+align-items: center;
+justify-content: center;
+    /* height: 30px; */
+    height: 30px;
+
+}
+.item10{
+    background-color: hsla(276, 58%, 35%, 1);
+    border-radius: 5px;
+    color: white;
+    display: flex;
+align-items: center;
+justify-content: center;
+    /* height: 30px; */
+    height: 30px;
+
+}  .item11{
+    background-color: hsla(276, 58%, 35%, 1);
+    border-radius: 5px;
+    color: white;
+    display: flex;
+align-items: center;
+justify-content: center;
+    /* height: 30px; */
+    height: 30px;
+
+}  .item12{
+    background-color: hsla(276, 58%, 35%, 1);
+    border-radius: 5px;
+    color: white;
+    display: flex;
+align-items: center;
+justify-content: center;
+    /* height: 30px; */
+    height: 30px;
+}
+.item13{
+    background-color: hsla(276, 58%, 35%, 1);
+    border-radius: 5px;
+    color: white;
+    display: flex;
+align-items: center;
+justify-content: center;
+    /* height: 30px; */
+    height: 30px;
+
+}
+.item14{
+    background-color: hsla(276, 58%, 35%, 1);
+    border-radius: 5px;
+    color: white;
+    display: flex;
+align-items: center;
+justify-content: center;
+    /* height: 30px; */
+    height: 30px;
+
+}  .item15{
+    background-color: hsla(276, 58%, 35%, 1);
+    border-radius: 5px;
+    color: white;
+    display: flex;
+align-items: center;
+justify-content: center;
+    /* height: 30px; */
+    height: 30px;
+
+}  .item16{
+    background-color: hsla(276, 58%, 35%, 1);
+    border-radius: 5px;
+    color: white;
+    display: flex;
+align-items: center;
+justify-content: center;
+    height: 30px;
+
+}
+.item17{
+   
+    height: 30px;
+    background-color: #fc0067;
+    display: flex;
+align-items: center;
+justify-content: center;
+border-radius: 5px;
+    color: white;
+
+}
+.item18{
+ 
+    height: 30px;
+    background-color: hsla(276, 58%, 35%, 1);
+    border-radius: 5px;
+    color: white;
+    display: flex;
+align-items: center;
+justify-content: center;
+}
+
+    
+    
