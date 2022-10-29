@@ -70,8 +70,8 @@ How to use this repository
 | 1     | JS    | [DOM-MANIPULATION-1](./4-Advance-JS/401-DOM-Manipulation/)  [AdvanceJS-401-03]             | https://github.com/VIJENDRASANODIYA/WebAssignment/tree/main/4-Advance-JS/401-DOM-Manipulation/AdvanceJS-401-03            |
 | 2     | JS    | [DOM-MANIPULATION-2](./4-Advance-JS/402-DOM-Manipulation/)  [AdvanceJS-402-01]             |    https://vijendrasanodiya.github.io/WebAssignment/4-Advance-JS/402-DOM-Manipulation/AdvanceJS-402-01/index.html         |
 | 2     | JS    | [DOM-MANIPULATION-2](./4-Advance-JS/402-DOM-Manipulation/)  [AdvanceJS-402-02]             |   https://vijendrasanodiya.github.io/WebAssignment/4-Advance-JS/402-DOM-Manipulation/AdvanceJS-402-02/index.html          |
-| 3     | JS    | [EVENT-LISTNERS](./4-Advance-JS/403-Event-Listeners/)       [AdvanceJS-403-01]           |             |
-| 3     | JS    | [EVENT-LISTNERS](./4-Advance-JS/403-Event-Listeners/)       [AdvanceJS-403-02]           |             |
+| 3     | JS    | [EVENT-LISTNERS](./4-Advance-JS/403-Event-Listeners/)       [AdvanceJS-403-01]           | https://github.com/VIJENDRASANODIYA/WebAssignment/tree/main/4-Advance-JS/403-event-listeners/AdvanceJS-403-01            |
+| 3     | JS    | [EVENT-LISTNERS](./4-Advance-JS/403-Event-Listeners/)       [AdvanceJS-403-02]           |   https://vijendrasanodiya.github.io/WebAssignment/4-Advance-JS/403-event-listeners/AdvanceJS-403-02/index.html          |
 | 3     | JS    | [EVENT-LISTNERS](./4-Advance-JS/403-Event-Listeners/)       [AdvanceJS-403-03]           |             |
 | 4     | JS    | [MINI-PROJECT](./4-Advance-JS/404-Mini-Project-Solar%20System/)   [AdvanceJS-404-01]       |             |
 | 5     | JS    | [WORLD-COUNTRIES](./4-Advance-JS/405-WorldCountries-Data-Visualization/) [AdvanceJS-405-01] |             |
