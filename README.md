@@ -56,8 +56,8 @@ How to use this repository
 | 6     | CSS   | [CSS-GRID](./3-CSS/306-CSS-Grid/)          [CSS-306-03]                      | https://vijendrasanodiya.github.io/WebAssignment/3-CSS/306-CSS-Grid/CSS-306-03/index.html            |
 | 7     | CSS   | [CSS-SELECTORS](./3-CSS/307-Advance-CSS-Selectors/)    [CSS-307-01]          |  https://vijendrasanodiya.github.io/WebAssignment/3-CSS/307-Advance-CSS-Selectors/CSS-307-01/index.html           |
 | 8     | CSS   | [CSS-PSEUDO-CLASSES](./3-CSS/308-CSS-Pseudo-Classes/)  [CSS-308-01]          |   https://vijendrasanodiya.github.io/WebAssignment/3-CSS/308-CSS-Pseudo-Classes/CSS-308-01/index.html          |
-| 8     | CSS   | [CSS-PSEUDO-CLASSES](./3-CSS/308-CSS-Pseudo-Classes/)  [CSS-308-02]          |             |
-| 8     | CSS   | [CSS-PSEUDO-CLASSES](./3-CSS/308-CSS-Pseudo-Classes/)  [CSS-308-03]          |             |
+| 8     | CSS   | [CSS-PSEUDO-CLASSES](./3-CSS/308-CSS-Pseudo-Classes/)  [CSS-308-02]          |  https://vijendrasanodiya.github.io/WebAssignment/3-CSS/308-CSS-Pseudo-Classes/CSS-308-02/index.html           |
+| 8     | CSS   | [CSS-PSEUDO-CLASSES](./3-CSS/308-CSS-Pseudo-Classes/)  [CSS-308-03]          |    https://vijendrasanodiya.github.io/WebAssignment/3-CSS/308-CSS-Pseudo-Classes/CSS-308-03/index.html         |
 | 9     | CSS   | [CSS-PSEUDO-ELEMETS](./3-CSS/309-CSS-Pseudo-Elements/) [CSS-309-01]          |             |
 | 10    | CSS   | [CSS-FINAL-PROJECTS](./3-CSS/310-Final-MCT-Projects/)  [CSS-310-01]          |             |
 
@@ -65,11 +65,11 @@ How to use this repository
 
 | S No. | Topic | Assignment                                                                | Hosted Link |
 | ----- | ----- | ------------------------------------------------------------------------- | ----------- |
-| 1     | JS    | [DOM-MANIPULATION-1](./4-Advance-JS/401-DOM-Manipulation/)  [AdvanceJS-401-01]             |             |
-| 1     | JS    | [DOM-MANIPULATION-1](./4-Advance-JS/401-DOM-Manipulation/)  [AdvanceJS-401-02]             |             |
-| 1     | JS    | [DOM-MANIPULATION-1](./4-Advance-JS/401-DOM-Manipulation/)  [AdvanceJS-401-03]             |             |
-| 2     | JS    | [DOM-MANIPULATION-2](./4-Advance-JS/402-DOM-Manipulation/)  [AdvanceJS-402-01]             |             |
-| 2     | JS    | [DOM-MANIPULATION-2](./4-Advance-JS/402-DOM-Manipulation/)  [AdvanceJS-402-02]             |             |
+| 1     | JS    | [DOM-MANIPULATION-1](./4-Advance-JS/401-DOM-Manipulation/)  [AdvanceJS-401-01]             | https://vijendrasanodiya.github.io/WebAssignment/4-Advance-JS/401-DOM-Manipulation/AdvanceJS-401-01/index.html            |
+| 1     | JS    | [DOM-MANIPULATION-1](./4-Advance-JS/401-DOM-Manipulation/)  [AdvanceJS-401-02]             | https://github.com/VIJENDRASANODIYA/WebAssignment/tree/main/4-Advance-JS/401-DOM-Manipulation/AdvanceJS-401-02            |
+| 1     | JS    | [DOM-MANIPULATION-1](./4-Advance-JS/401-DOM-Manipulation/)  [AdvanceJS-401-03]             | https://github.com/VIJENDRASANODIYA/WebAssignment/tree/main/4-Advance-JS/401-DOM-Manipulation/AdvanceJS-401-03            |
+| 2     | JS    | [DOM-MANIPULATION-2](./4-Advance-JS/402-DOM-Manipulation/)  [AdvanceJS-402-01]             |    https://vijendrasanodiya.github.io/WebAssignment/4-Advance-JS/402-DOM-Manipulation/AdvanceJS-402-01/index.html         |
+| 2     | JS    | [DOM-MANIPULATION-2](./4-Advance-JS/402-DOM-Manipulation/)  [AdvanceJS-402-02]             |   https://vijendrasanodiya.github.io/WebAssignment/4-Advance-JS/402-DOM-Manipulation/AdvanceJS-402-02/index.html          |
 | 3     | JS    | [EVENT-LISTNERS](./4-Advance-JS/403-Event-Listeners/)       [AdvanceJS-403-01]           |             |
 | 3     | JS    | [EVENT-LISTNERS](./4-Advance-JS/403-Event-Listeners/)       [AdvanceJS-403-02]           |             |
 | 3     | JS    | [EVENT-LISTNERS](./4-Advance-JS/403-Event-Listeners/)       [AdvanceJS-403-03]           |             |
