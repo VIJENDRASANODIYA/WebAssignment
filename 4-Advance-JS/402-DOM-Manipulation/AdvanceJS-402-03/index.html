@@ -1,3 +1,5 @@
+
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -7,6 +9,26 @@
     <title>Shopping List</title>
   </head>
   <body>
-    Start your code here
+    <h1>My shopping list</h1>
+    <div class="main">
+      <label for="item">Enter a new item</label>
+      <input type="text" id="item">
+      <button id="submit">Add item</button>
+      <ul id="list"></ul>
+    </div>
   </body>
+  <script>
+    var itemInput = document.getElementById("item");
+    var Additem = document.getElementById("submit");
+    var list = document.getElementById("list")
+    function additem(){
+      var currentitem =itemInput.value;
+      var listitem=document.createElement("li");
+      listitem.innerHTML=currentitem;
+      list.appendChild(listitem);
+      itemInput.value="";
+    }
+    submit.onclick=additem;
+    list.innerHTML=""; itemInput.value="";
+  </script>
 </html>

@@ -5,4 +5,6 @@ keyBoard.addEventListener("keyup",(e)=>{
    let ans=document.getElementById('ans');
      ans.innerHTML=e.keyCode;
      key.innerHTML = e.key;
+     var inputRef=document.getElementById("input")
+     inputRef.value=""
 });
