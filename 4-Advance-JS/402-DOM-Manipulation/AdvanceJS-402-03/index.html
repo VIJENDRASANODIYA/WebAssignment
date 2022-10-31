@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -7,28 +5,49 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Shopping List</title>
+    <script>
+      var ulRef=document.createElement("ul")
+      function addlist(){
+       
+        var inputRef=document.getElementById("input");
+        textRef=inputRef.value;
+        divRef=document.getElementById("div");
+        var liRef=document.createElement("li");
+        liRef.innerHTML=textRef
+       ulRef.appendChild(liRef);
+       divRef.appendChild(ulRef);
+       inputRef.value=""
+       var spanRef=document.createElement("span")
+      spanRef.innerText="Delete";
+      liRef.appendChild(spanRef)
+      spanRef.style.margin="0px 150px"
+      spanRef.style.border="2px solid black"
+      spanRef.style.padding="2px 6px"
+     
+      spanRef.style.cursor="pointer"
+      brRef=document.createElement("br")
+      liRef.appendChild(brRef)
+      ulRef.appendChild(liRef)
+      divRef.appendChild(ulRef)
+      spanRef.addEventListener("click", fn)
+      function fn(){
+        spanRef.remove()
+        liRef.remove()
+        
+      }
+
+        console.log(textRef);
+      }
+ 
+    </script>
   </head>
   <body>
-    <h1>My shopping list</h1>
-    <div class="main">
-      <label for="item">Enter a new item</label>
-      <input type="text" id="item">
-      <button id="submit">Add item</button>
-      <ul id="list"></ul>
+    <h1>My Shopping list</h1>
+    <label for="">Enter a new item :</label>
+    <input type="text" value="" id="input">
+    <button onclick="addlist()">Add item</button>
+    <div id="div">
+      
     </div>
   </body>
-  <script>
-    var itemInput = document.getElementById("item");
-    var Additem = document.getElementById("submit");
-    var list = document.getElementById("list")
-    function additem(){
-      var currentitem =itemInput.value;
-      var listitem=document.createElement("li");
-      listitem.innerHTML=currentitem;
-      list.appendChild(listitem);
-      itemInput.value="";
-    }
-    submit.onclick=additem;
-    list.innerHTML=""; itemInput.value="";
-  </script>
 </html>

@@ -1,0 +1,83 @@
+body{
+    font-family: serif;
+    background-image: url(https://images.pexels.com/photos/164005/pexels-photo-164005.jpeg?auto=compress&cs=tinysrgb&w=600);
+}
+.container{
+    width: 300px;
+    height: 520px;
+    background: #F7F7F7;
+    margin: 50px auto;
+}
+h1{
+    background: #000;
+    color: white;
+    font-size: 20px;
+    padding: 10px 10px 10px 70px;
+    text-transform: uppercase;
+}
+p{
+    padding-left: 20px;
+    font-size: 16px;
+}
+form input[type="text"]{
+    width: 100px;
+}
+input{
+    padding: 10px;
+}
+#billamt{
+    width: 60%;
+    font-size: 14px;
+    background: #F7F7F7;
+    padding: 5px auto;
+    color: blue;
+}
+#service{
+    font-size: 20px;
+    padding: 10px 10px 20px 20px;
+    margin-left:20px ;
+}
+#peopleamt{
+    width: 60%;
+    font-size: 14px;
+    background: #F7F7F7;
+    padding: 5px 5px 8px 8px;
+    margin-left: 20px;
+    color: red;
+}
+/* #billamt:focus{
+    background: white;
+    padding: 10px 10px 20px 20px;
+    margin-left: 20px;
+} */
+button{
+    width: 170px;
+    height: 50px;
+    background: #000;
+    color: white;
+    font-size: 20px;
+    margin: 30px auto;
+    display: block;
+    text-transform: uppercase;
+}
+#totaltip{
+    font-size: 30px;
+    margin-top: 5px;
+    text-align: center;
+}
+#totaltip{
+    content: "Total Tip";
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+    display: block;
+}
+#totaltip sup{
+   font-size: 20px;
+   top: -18px;
+}
+#totaltip small{
+   font-size: 18px;
+   font-weight: bold;
+   display: block;
+}
