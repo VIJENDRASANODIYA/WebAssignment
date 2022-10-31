@@ -17,6 +17,7 @@ let calWeight = () => {
       return;
     } else if (planetSelec.value === "selectPlanet") {
       alert("Please Select Planet");
+   
       return;
     }
   } else {
