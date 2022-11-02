@@ -5,8 +5,60 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+    <script src="https://kit.fontawesome.com/7dbc7206c7.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="style.css">
+    <script src="./countries.js"></script>
+    
+  
   </head>
+  <style>
+    #table{
+     margin: 10px 200px;
+     color: black;
+     font-weight: 900;
+
+    }
+    #h2{
+      font-size: 20px;
+      color: crimson;
+      color-interpolation-filters: linearRGB;
+      
+    }
+    .h{
+      color: white;
+      font-size: 15px;
+      word-spacing: 5px;
+      letter-spacing: 2px;
+    }
+  </style>
   <body>
-    Start your code here
+    <div class="container">
+      <div class="center">
+        <h1 class="h1">WORLD COUNTRIES LIST</h1>
+        <h3 class="h3">Total numbers of countries:193</h3>
+        <h2 class="h">Country Start with <span id="h2"></span></h2>
+     
+      <div class="btn">
+        <button type="button" class="btn btn-lg" onclick="searchWithAnyWord()">SRATING WORD</button>
+        <button type="button" class="btn  btn-lg">SEARCH WITH ANY WORD</button>
+        <button type="button" class="btn  btn-ls"><i class="fa-solid fa-down-long">A-Z</i></button>
+
+      </div><br><br>
+      <form action="" id="search-form" onkeypress="fn()">
+         <input type="text" id="search-field" placeholder="Search country..."><i style="width: 40px;
+        filter: invert(1);" class="fa-solid fa-magnifying-glass"></i>
+      </form>
+     
+
+     
+    </div>
+    
+    </div>
+    <table id="table" Rules="all">
+
+    </table>
+    <script src="/4-Advance-JS/405-WorldCountries-Data-Visualization/AdvanceJS-405-01/countries_data.js"></script>
+    <script src="./index.js"></script>
   </body>
 </html>

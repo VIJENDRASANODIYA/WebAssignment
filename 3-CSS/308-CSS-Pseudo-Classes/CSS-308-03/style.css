@@ -80,6 +80,8 @@ margin-top: -12px;
 }
 li a:hover{
 color:#3fb0ac !important;
+text-decoration:overline !important;
+opacity: 1;
 }
 .last-btn-1:hover{
 color: crimson;

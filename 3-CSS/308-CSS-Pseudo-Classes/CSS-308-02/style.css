@@ -53,6 +53,7 @@ color: white;
     text-decoration: none;
     display: block;
 }
+/* }
 .dropdown-menu a:hover{
     background-color: aquamarine;
     color: blue;
@@ -62,4 +63,8 @@ color: white;
 }
 .right-menu:hover .menu-button{
     background-color: #f4511e;
+} */
+.menu-button:hover + .dropdown-menu{
+    background-color: aqua;
+    display: block;
 }
