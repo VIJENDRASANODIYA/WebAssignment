@@ -1,0 +1,19 @@
+:root{
+    --black:#000000;
+    --white:#FFFFFF;
+}
+body{
+    background-color:var(--black);
+    color:var(--white);
+}
+#search_result_container{
+    font-size: xx-large;
+    font-family: monospace;
+}
+input#search-field{
+    width: 210px;
+    height: 20px;
+}
+input#hh{
+    height: 27px;
+}

@@ -1,12 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
     <title>Document</title>
-  </head>
-  <body>
-    Start your code here
-  </body>
+</head>
+
+<body>
+<div class="container">
+    <h1 style="font-size:50px ;">
+      Emoji-Emoji 🔍 Application
+    </h1>
+    <form id="search-form" style="margin: 20px;">
+        <input type="text" placeholder="emoji search" id="search-field">
+        <input id="hh" type="submit" value="search">
+    </form>
+    <table id="search_result_container" rules="rows">
+        
+    </table>
+</div>
+<script src="./emojiList.js"></script>
+<script src="index.js"></script>
+</body>
 </html>

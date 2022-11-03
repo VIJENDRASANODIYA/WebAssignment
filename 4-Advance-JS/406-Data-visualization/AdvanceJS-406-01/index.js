@@ -1,13 +1,18 @@
 
 const showres=(e)=>{
-    display(e.target.value);
+   
+    display (e.target.value)
+   
     var h2=document.getElementById("h2")
          h2.innerHTML=` ${e.key} and ${e.keyCode} ` ;
          h2.style.opacity=1
          h2.style.color="crimson"
          h2.style.font ="40px"
+        
  }
+
  function display(element){
+   
      // console.log(element);
      const filter=countries_data.filter((value)=>{
          if(value.name.startsWith(element)){
@@ -28,9 +33,17 @@ const showres=(e)=>{
  
      });
  }
+  function searchWithAnyWord(){
+    var search_form= document.getElementById("search-field");
+    search_form.value=""
+  }
+  function searchWithStartingWord(){
+    var search_form= document.getElementById("search-field");
+    search_form.value=""
+  }
  
+ document.getElementById("search-form").addEventListener("keyup",showres);
   
    
  
   
- document.getElementById("search-form").addEventListener("keyup",showres);

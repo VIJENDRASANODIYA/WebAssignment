@@ -13,24 +13,7 @@
   
   </head>
   <style>
-    #table{
-     margin: 10px 200px;
-     color: black;
-     font-weight: 900;
-
-    }
-    #h2{
-      font-size: 20px;
-      color: crimson;
-      color-interpolation-filters: linearRGB;
-      
-    }
-    .h{
-      color: white;
-      font-size: 15px;
-      word-spacing: 5px;
-      letter-spacing: 2px;
-    }
+ 
   </style>
   <body>
     <div class="container">
@@ -40,12 +23,12 @@
         <h2 class="h">Country Start with => <span id="h2"></span></h2>
      
       <div class="btn">
-        <button type="button" class="btn btn-lg" onclick="searchWithAnyWord()">SRATING WORD</button>
-        <button type="button" class="btn  btn-lg">SEARCH WITH ANY WORD</button>
+        <button type="button" class="btn btn-lg" onclick="searchWithStartingWord()">SRATING WORD</button>
+        <button type="button" class="btn  btn-lg" onclick="searchWithAnyWord()">SEARCH WITH ANY WORD</button>
         <button type="button" class="btn  btn-ls"><i class="fa-solid fa-down-long">A-Z</i></button>
 
       </div><br><br>
-      <form action="" id="search-form" onkeypress="fn()">
+      <form action="" id="search-form" >
          <input type="text" id="search-field" placeholder="Search country..."><i style="width: 40px;
         filter: invert(1);" class="fa-solid fa-magnifying-glass"></i>
       </form>

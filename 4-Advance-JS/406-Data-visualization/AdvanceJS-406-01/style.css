@@ -45,3 +45,21 @@ div.container{
   h3.h3{
     color: white;
   }
+  #table{
+    margin: 10px 200px;
+    color: black;
+    font-weight: 900;
+
+   }
+   #h2{
+     font-size: 20px;
+     color: crimson;
+     color-interpolation-filters: linearRGB;
+     
+   }
+   .h{
+     color: white;
+     font-size: 15px;
+     word-spacing: 5px;
+     letter-spacing: 2px;
+   }
