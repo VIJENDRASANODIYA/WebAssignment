@@ -1,0 +1,49 @@
+body{
+    margin-top: 15px;
+    background-color: rgb(13, 116, 139);
+  }
+  .nav h2{
+    /* border: 2px solid red; */
+  background-color: white;
+  width: 500px;
+  height: 50px;
+  text-align: center;
+  display: inline;
+  margin: 10px 236px;
+  font-size: 35px;
+  padding: 10px 123px;
+  }
+  .input-div{
+    text-align: center;
+   margin: 30px auto;
+    width: 300px;
+    height: 200px;
+    border: 2px solid red;
+    background-color: white;
+  }
+  .input-div input{
+ margin: 40px auto;
+ height: 30px;
+ width: 160px;
+  }
+  .input-div button{
+    background-color: blue;
+    color: white;
+    padding: 12px 30px;
+  }
+  #result{
+    text-align: center;
+   margin: 25px auto;
+    width: 300px;
+    height: 250px;
+    /* border: 2px solid red; */
+    background-color: white;
+  }
+  .result-nav{
+  
+    width: 301px;
+    background-color: blue;
+    color: white;
+    margin: 16px -3px;
+    padding: 1px 1px;
+  }
