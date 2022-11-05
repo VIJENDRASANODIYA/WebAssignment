@@ -1,0 +1,19 @@
+#submit div input{
+    border: 3px solid rgb(2, 2, 2);
+    color: black;
+    font-size: 20px;
+    font-weight: 600;
+  }
+  #submit div textarea{
+    border: 3px solid rgb(0, 0, 0);
+  }
+  #submit div label{
+    color: black;
+    font-size: 20px;
+    font-weight: 600;
+  }
+  #submit div textarea{
+    color: black;
+    font-size: 20px;
+    font-weight: 600;
+  }
