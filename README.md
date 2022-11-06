@@ -80,8 +80,8 @@ How to use this repository
 | 8     | JS    | [LEADERBOARD](./4-Advance-JS/408-leaderboard/)    [AdvanceJS-408-01]                       |             |
 | 9     | JS    | [FROM-VALIDATION](./4-Advance-JS/409-form-validation/)          [AdvanceJS-409-01]         |  https://vijendrasanodiya.github.io/WebAssignment/4-Advance-JS/409-form-validation/AdvanceJS-409-01/index.html           |
 | 10    | JS    | [PROJECTS](./4-Advance-JS/410-Projects/)             [AdvanceJS-410-01]                    |  https://github.com/VIJENDRASANODIYA/WebAssignment/tree/main/4-Advance-JS/410-Projects/AdvanceJS-410-01           |
-| 10    | JS    | [PROJECTS](./4-Advance-JS/410-Projects/)             [AdvanceJS-410-02]                    |             |
+| 10    | JS    | [PROJECTS](./4-Advance-JS/410-Projects/)             [AdvanceJS-410-02]                    |https://vijendrasanodiya.github.io/WebAssignment/4-Advance-JS/410-Projects/AdvanceJS-410-02/index.html             |
 | 10    | JS    | [PROJECTS](./4-Advance-JS/410-Projects/)             [AdvanceJS-410-03]                    |             |
 | 10    | JS    | [PROJECTS](./4-Advance-JS/410-Projects/)             [AdvanceJS-410-04]                    |  https://vijendrasanodiya.github.io/WebAssignment/4-Advance-JS/410-Projects/AdvanceJS-410-04/index.html           |
-| 10    | JS    | [PROJECTS](./4-Advance-JS/410-Projects/)             [AdvanceJS-410-05]                    |             |
+| 10    | JS    | [PROJECTS](./4-Advance-JS/410-Projects/)             [AdvanceJS-410-05]                    | https://vijendrasanodiya.github.io/WebAssignment/4-Advance-JS/410-Projects/AdvanceJS-410-05/index.html?            |
 | 11    | JS    | [CRYPTO-VIEW](./4-Advance-JS/411-crypto-view/)         [AdvanceJS-411-01]                  |             |
