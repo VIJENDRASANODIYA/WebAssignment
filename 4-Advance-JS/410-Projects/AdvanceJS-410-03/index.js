@@ -7,6 +7,7 @@ const getName=async (data)=>{
     const newData= await dataGet.json();
     console.log(newData);
     showData(newData)
+    console.log(newData);
 }
 
 const showData= async(newData)=>{

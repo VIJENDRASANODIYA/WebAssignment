@@ -27,6 +27,11 @@ const showres=(e)=>{
          const new_row=document.createElement("tr");
          const new_countries=document.createElement("td");
          new_countries.innerHTML=e.name;
+         new_countries.style.border="2px solid black"
+         new_countries.style.width="200px"
+         new_countries.style.height="200px"
+         new_countries.style.display="flex"
+
          new_row.appendChild(new_countries);
          parent.appendChild(new_row);
          
