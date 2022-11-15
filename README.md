@@ -20,8 +20,9 @@ How to use this repository
 # JS Basics
 
 | S No. | Topic     | Assignment                                | FreeCodeCamp Id | Question Done Till Now |
-| ----- | --------- | ----------------------------------------- | --------------- | --------------- |
-| 1     | JS Basics | [JS BASIC Question List](./1-JS-BASICS/) |                 |                 |
+| ----- | --------- | ----------------------------------------- |@fcc132c0cb6-84f3-4d29-b900-b5f4c84db9a5 | 125|
+| 1     | JS Basics | [JS BASIC Question List](./1-JS-BASICS/) |    
+             |                 |
 
 # HTML
 
