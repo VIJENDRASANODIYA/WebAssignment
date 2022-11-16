@@ -16,7 +16,14 @@ showData(newData)
 const showData= (newData)=>{
  
    console.log(newData);
-    document.getElementById("img").src=newData.results[0].urls.regular;
+  
+
+   newData.results.forEach(photo=>{
+  document.getElementById("img"). src=photo.urls.regular
+    
+  
+
+})
 }
   
 
