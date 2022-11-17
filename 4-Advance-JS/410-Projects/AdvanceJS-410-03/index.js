@@ -10,10 +10,11 @@ const getName=async (data)=>{
     console.log(newData);
 }
 
-const showData= async(newData)=>{
+const showData=async (newData)=>{
    img.innerHTML=` <div id="img">
    <img src="${newData.meals[0].strMealThumb}" alt="img" width="250px">
  </div>`
+
  search.value=""
 }
 

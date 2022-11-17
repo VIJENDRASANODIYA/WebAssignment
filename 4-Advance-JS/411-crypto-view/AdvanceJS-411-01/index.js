@@ -16,14 +16,21 @@ showData(newData)
 const showData= (newData)=>{
  
    console.log(newData);
-  
+   
 
-   newData.results.forEach(photo=>{
-  document.getElementById("img"). src=photo.urls.regular
-    
-  
+   const list2 = document.getElementById("imagesDisplay");
+   list2.innerHTML = "";
+   newData.results.forEach(result => {
+       const imgShow = document.createElement("IMG");
+       imgShow.style.width="350px"
+       imgShow.style.height="300px"
+       imgShow.style.border="2px solid black"
+       imgShow.style.padding="3px 3px"
 
-})
+       imgShow.src = result.urls.regular;
+       list2.appendChild(imgShow);
+   })
+
 }
   
 
